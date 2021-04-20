@@ -1,0 +1,11 @@
+.container{
+    margin-top: 25px;
+    margin-left: 30px;
+}
+.nav-a{
+    font-size: 22px;
+    color: #3D58A6;
+}
+.active{
+    color: #4AC20E;
+}
