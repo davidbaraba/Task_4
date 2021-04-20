@@ -9,3 +9,34 @@
 .active{
     color: #4AC20E;
 }
+.post{
+    margin-top: 18px;
+}
+.postTitle{
+    color: #3D58A6;
+    font-size: 30px;
+    border: 5px solid #4AC20E;
+    border-radius: 10px;
+    padding: 2px 0 2px 22px;
+    margin-bottom: 10px;
+    margin-right: 39px
+}
+.imagesBox{
+    margin-bottom: 67px;
+}
+.imagesBox > img{
+    margin-right: 70px
+}
+.desc p{
+    font-size: 22px;
+    color: #3D58A6;
+    text-align:justify;
+    margin-bottom: 22px;
+}
+.desc a{
+    font-size: 22px;
+    color: #3D58A6;
+    border-bottom: 8px solid #3D58A6;
+    /* text-decoration: underline; */
+    /* text-decoration-thickness: 8px; */
+}
